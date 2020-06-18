@@ -1,0 +1,32 @@
+h1{
+  color: orange;
+}
+
+h2 {
+  color: 	#9400D3;
+}
+
+p {
+  width: 500px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol{
+  list-style-type: upper-roman;
+  text-decoration: underline;
+}
+
+.olItem1 {
+  color: #FF00FF;
+}
+
+.olItem2 {
+  color: #FF00FF;
+}
+
+.olItem3 {
+  color: #FF00FF;
+}
